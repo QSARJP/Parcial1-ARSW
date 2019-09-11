@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimesFinderTool",
+            "request": "launch",
+            "mainClass": "edu.eci.arsw.primefinder.PrimesFinderTool",
+            "projectName": "2018-1-arsw-par1"
+        }
+    ]
+}
